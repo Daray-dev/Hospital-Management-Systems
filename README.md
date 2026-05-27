@@ -1,4 +1,4 @@
-#Employee Management System (EMS)
+Hostpial Management System (EMS)
 Overview
 
 Employee data is a critical asset for any organization, enabling effective workforce management and decision-making. Each employee is uniquely identified by an Employee ID and is associated with key attributes such as role, department, and other relevant details.
